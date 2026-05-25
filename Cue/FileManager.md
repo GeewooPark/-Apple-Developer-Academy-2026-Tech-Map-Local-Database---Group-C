@@ -144,3 +144,10 @@ https://developer.apple.com/documentation/foundation/filemanager
     - Article : Using the file system effectively
 
     - https://developer.apple.com/documentation/foundation/using-the-file-system-effectively
+
+### 5. 추가 리소스
+- iOS File System Basics 공식 문서 번역본
+https://baechukim.tistory.com/138
+
+- iOS Accessing Files and Directories 공식 문서 번역 & 정리본
+https://baechukim.tistory.com/140
